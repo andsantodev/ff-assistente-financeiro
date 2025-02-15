@@ -1,9 +1,7 @@
-# Assistente Financeiro GPT
+# Assistente financeiro GPT
 
-Aplicativo de bate papo com uma IA de assistente financeiro 
+A new Flutter project.
 
-<img src="https://github.com/user-attachments/assets/746f8c8b-1b99-4b14-ac3f-225d1bca999d" width="400">
+## Getting Started
 
-## Link para visualização
-
-https://assist-financeiro-gpt.flutterflow.app/
+FlutterFlow projects are built to run on the Flutter _stable_ release.
